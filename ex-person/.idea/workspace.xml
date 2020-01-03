@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0529471-4df7-4e84-bdd0-d7ca1cf9608b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vq3gqcLF2siTG47JFafKKZCu2z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercicios" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\william.basso\PycharmProjects\ex2test\tests\unit\app" />
+      <recent name="C:\Users\william.basso\PycharmProjects\ex2test\app\pessoas\pessoa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in tests">
+    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex2test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/person/exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.unit.app.person.test_person.TestPerson" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex2test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit/app/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.unit.app.person.test_person.TestPerson&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.unit.app.person.test_person.TestPerson.test_person_should_be_of_legal_age" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex2test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit/app/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.unit.app.person.test_person.TestPerson.test_person_should_be_of_legal_age&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.unit.app.person.test_person.TestPerson.test_should_a_quantity_of_lower_letters_in_name" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex2test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/unit/app/person" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.unit.app.person.test_person.TestPerson.test_should_a_quantity_of_lower_letters_in_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex2test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in tests" />
+        <item itemvalue="Python.exceptions" />
+        <item itemvalue="Python tests.pytest for tests.unit.app.person.test_person.TestPerson.test_should_a_quantity_of_lower_letters_in_name" />
+        <item itemvalue="Python tests.pytest for tests.unit.app.person.test_person.TestPerson.test_person_should_be_of_legal_age" />
+        <item itemvalue="Python tests.pytest for tests.unit.app.person.test_person.TestPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0529471-4df7-4e84-bdd0-d7ca1cf9608b" name="Default Changelist" comment="" />
+      <created>1577966911798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577966911798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577990494636">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="0" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.738@0.0.1024.738" timestamp="1577990494636" />
+    <state x="292" y="125" key="FileChooserDialogImpl" timestamp="1578052312419">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="292" y="125" key="FileChooserDialogImpl/0.0.1024.738@0.0.1024.738" timestamp="1578052312419" />
+    <state width="1003" height="182" key="GridCell.Tab.0.bottom" timestamp="1578059829721">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="1003" height="182" key="GridCell.Tab.0.bottom/0.0.1024.738@0.0.1024.738" timestamp="1578059829721" />
+    <state width="1003" height="182" key="GridCell.Tab.0.center" timestamp="1578059829721">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="1003" height="182" key="GridCell.Tab.0.center/0.0.1024.738@0.0.1024.738" timestamp="1578059829721" />
+    <state width="1003" height="182" key="GridCell.Tab.0.left" timestamp="1578059829720">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="1003" height="182" key="GridCell.Tab.0.left/0.0.1024.738@0.0.1024.738" timestamp="1578059829720" />
+    <state width="1003" height="182" key="GridCell.Tab.0.right" timestamp="1578059829721">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="1003" height="182" key="GridCell.Tab.0.right/0.0.1024.738@0.0.1024.738" timestamp="1578059829721" />
+    <state x="208" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1578059606483">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="208" y="194" key="com.intellij.ide.util.TipDialog/0.0.1024.738@0.0.1024.738" timestamp="1578059606483" />
+  </component>
+</project>
